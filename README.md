@@ -1,5 +1,7 @@
-<!-- Nome e apresentação -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 <div align="center">
+<div align="center">
+  
   <samp>
     <b>
       Desenvolvedor Full Stack
