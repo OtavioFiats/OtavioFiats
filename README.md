@@ -1,9 +1,3 @@
-<!-- Header com GIF de espada -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
-<div align="center">
-  <img src="https://i.imgur.com/0RZkCkL.png" width="100" alt="Espada"> <!-- Substitua a URL se quiser outra espada -->
-</div>
-
 <!-- Nome e apresentação -->
 <div align="center">
   <samp>
