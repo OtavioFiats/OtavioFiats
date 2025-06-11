@@ -3,9 +3,6 @@
 <div align="center">
   
   <samp>
-    <b>
-      Desenvolvedor Full Stack
-    </b>
     <br>
     Olá! Eu sou o Otávio Fiats 👋
     <br>
